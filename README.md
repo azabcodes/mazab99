@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mazab99
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mazab99/mazab99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![myImage](https://user-images.githubusercontent.com/108914401/184141792-41bf06c3-e764-4330-a241-6b4941240ecc.jpeg)
+![myImage2](https://user-images.githubusercontent.com/108914401/184141810-496ce5d0-a526-42b0-844f-e3ae73da67f4.jpeg)
+![myImage3](https://user-images.githubusercontent.com/108914401/184141816-38fd88e4-e819-403e-900e-abc1c42f9aec.jpeg)
