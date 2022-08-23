@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mazab15499@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EpOj_1CEJSFGpSU_lfCjr2itfmivKNcp/view?usp=sharing](https://drive.google.com/file/d/1EpOj_1CEJSFGpSU_lfCjr2itfmivKNcp/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
