@@ -30,5 +30,3 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mazap64H"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mazap64H" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazab99&show_icons=true&locale=en" alt="mazab99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazab99&" alt="mazab99" /></p>
