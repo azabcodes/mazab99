@@ -34,4 +34,9 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazab99&show_icons=true&locale=en" alt="mazab99" /></p>
