@@ -43,4 +43,3 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazab99&theme=vue" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazab99&show_icons=true&locale=en" alt="mazab99" /></p>
