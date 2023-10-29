@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mazap64" target="blank"><img src="https://img.shields.io/twitter/follow/mazap64?logo=twitter&style=for-the-badge" alt="mazap64" /></a> </p>
 
-- 🔭 I’m currently working on [Droplet](https://play.google.com/store/apps/details?id=sa.desktop.droplet_water)
+- 🔭 I’m currently working on [khodrah](https://play.google.com/store/apps/details?id=sa.desktop.khodrah)
 
 - 🌱 I’m currently learning **Swift**
 
